@@ -12,7 +12,7 @@ pipeline {
         stage('Build') {
             steps {
                 // Simple print message to indicate the build stage
-                echo 'Building the project...'
+                echo 'Building project...'
             }
         }
 
