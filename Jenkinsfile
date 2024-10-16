@@ -16,7 +16,7 @@ pipeline {
             }
         }
 
-        stage('Test') {
+        stage('Test test') {
             steps {
                 // Here you can run test commands (e.g., npm test, mvn test)
                 echo 'Running tests...'
